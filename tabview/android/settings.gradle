@@ -1,0 +1,3 @@
+rootProject.name = 'tabview'
+
+include ':app'
